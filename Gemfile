@@ -1,4 +1,4 @@
-source "https://rubygems.org”
-gem "knife"
-gem "berkshelf"
-gem "foodcritic"
+source 'https://rubygems.org'
+gem 'knife'
+gem 'berkshelf'
+gem 'foodcritic'
