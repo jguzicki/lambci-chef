@@ -1,0 +1,3 @@
+{
+	"cmd": ". ~/init/ruby && bundle install && knife --version  && echo 'DONE'"
+}
