@@ -4,7 +4,7 @@ set -e
 
 echo "Installing Ruby..."
 
-curl -sSL "https://hmhdev-opsdev-lambci-buildresults-9uixrb1tovbi.s3.amazonaws.com/download/ruby-chef.tgz" --output /tmp/ruby-chef.tgz
+curl -v -sSL "https://hmhdev-opsdev-lambci-buildresults-9uixrb1tovbi.s3.amazonaws.com/download/ruby-chef.tgz" --output /tmp/ruby-chef.tgz
 cd /tmp
 tar -xvzf ruby-chef.tgz
 
