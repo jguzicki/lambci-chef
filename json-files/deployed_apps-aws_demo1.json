@@ -1,0 +1,9 @@
+{
+  "id": "deployed_apps-aws_demo1",
+  "swagger_enabled_platform_services": {
+    "resmgr": {
+      "deployed_app_version": null,
+      "published_app_version": null
+    }
+  }
+}
