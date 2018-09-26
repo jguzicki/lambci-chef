@@ -1,3 +1,3 @@
 {
-	"cmd": ". ~/init/ruby 2.3.4 && find . -name *.rb --exec ruby -c '{}' \;"
+	"cmd": ". ~/init/ruby 2.3.4 && ./ruby_check.sh"
 }
