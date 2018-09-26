@@ -1,3 +1,3 @@
 {
-	"cmd": "./lambci_chefdk.init"
+	"cmd": ". ~/init/ruby 2.3.4 && ruby -c ./*"
 }
