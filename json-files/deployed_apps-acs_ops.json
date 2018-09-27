@@ -3,7 +3,7 @@
 	"swagger_enabled_platform_services": {
 		"resmgr": {
 			"deployed_app_version": null,
-			"published_app_version": null
+			"published_app_version": null,
 		}
 	}
 }
