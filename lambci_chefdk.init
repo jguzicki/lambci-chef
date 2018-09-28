@@ -1,0 +1,13 @@
+#!/bin/bash
+
+set -e
+
+echo "Installing Ruby..."
+
+curl -v -sSL "http://10.37.50.126:8080/ruby-chef.tgz" | tar -xvz -C /tmp
+
+/tmp/ruby/bin/ruby --version
+
+/tmp/ruby/bin/gem list
+
+echo "Ruby install complete."
